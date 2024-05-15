@@ -1,0 +1,73 @@
+cohort_years,label_dod_occ_code,paygrade,y1_emp,y5_emp,y1_nonemp,y5_nonemp,y1_p50_earnings,y5_p50_earnings
+16,Infantry Gun Crews and Seamanship Specialists,E1-E5,65940,57110,85440,42630,28200,39250
+16,Infantry Gun Crews and Seamanship Specialists,E6-E9,21640,16620,16050,8325,45100,56090
+16,Electronic Equipment Repairers,E1-E5,15090,13290,16280,7494,36180,47110
+16,Electronic Equipment Repairers,E6-E9,4245,3411,2089,1190,61890,73390
+16,Communications and Intelligence Specialists,E1-E5,26580,23090,31220,15280,33310,46010
+16,Communications and Intelligence Specialists,E6-E9,11210,8597,7668,4085,60200,71010
+16,Health Care Specialists,E1-E5,8766,6409,15270,4999,32860,43060
+16,Health Care Specialists,E6-E9,3402,2218,2796,996,48100,57830
+16,Other Allied Professions,E1-E5,3664,3705,4750,2508,32510,42080
+16,Other Allied Professions,E6-E9,2355,2023,1689,934,50330,61980
+16,Functional Support and Administration,E1-E5,26950,24820,40560,20070,30780,40200
+16,Functional Support and Administration,E6-E9,19360,15720,12540,6932,49600,61890
+16,Electrical/Mechanical Equipment Repairers,E1-E5,38500,32410,38400,19840,32820,42990
+16,Electrical/Mechanical Equipment Repairers,E6-E9,11430,9079,5997,3459,50960,61080
+16,Craftsworkers,E1-E5,10250,9403,11590,6626,30040,40720
+16,Craftsworkers,E6-E9,2692,2471,1552,995,45110,55790
+16,Service and Supply Handlers,E1-E5,31430,25800,42830,19150,29220,38830
+16,Service and Supply Handlers,E6-E9,8840,6833,6225,3335,43190,53820
+4,Infantry Gun Crews and Seamanship Specialists,E1-E5,19630,23670,17300,13110,28030,38630
+4,Infantry Gun Crews and Seamanship Specialists,E6-E9,5686,5951,2658,2354,41360,52850
+4,Electronic Equipment Repairers,E1-E5,4462,5358,3279,2352,35930,45320
+4,Electronic Equipment Repairers,E6-E9,1050,1095,450,358,56230,69830
+4,Communications and Intelligence Specialists,E1-E5,7021,8506,5806,4281,32890,44680
+4,Communications and Intelligence Specialists,E6-E9,2591,2853,1342,1099,52390,66500
+4,Health Care Specialists,E1-E5,1230,1332,728,584,37940,48290
+4,Health Care Specialists,E6-E9,379,397,159,120,49160,61740
+4,Other Allied Professions,E1-E5,1657,2088,1748,1288,29800,39360
+4,Other Allied Professions,E6-E9,934,1001,503,425,45810,58590
+4,Functional Support and Administration,E1-E5,7737,9745,8251,6183,29940,39110
+4,Functional Support and Administration,E6-E9,4606,4991,2449,2027,44450,57030
+4,Electrical/Mechanical Equipment Repairers,E1-E5,12620,14710,9299,7166,31510,41500
+4,Electrical/Mechanical Equipment Repairers,E6-E9,3169,3298,1298,1167,46490,57920
+4,Craftsworkers,E1-E5,3207,3930,2808,2083,30500,40490
+4,Craftsworkers,E6-E9,931,1023,475,370,42740,54460
+4,Service and Supply Handlers,E1-E5,8801,10430,7249,5554,29770,39180
+4,Service and Supply Handlers,E6-E9,2031,2152,1005,888,41920,52490
+4,Infantry Gun Crews and Seamanship Specialists,E1-E5,19530,19150,16830,17040,28130,40720
+4,Infantry Gun Crews and Seamanship Specialists,E6-E9,6284,6257,3005,2984,46610,59420
+4,Electronic Equipment Repairers,E1-E5,4739,5049,3530,3205,35160,48860
+4,Electronic Equipment Repairers,E6-E9,1428,1391,450,462,61400,75640
+4,Communications and Intelligence Specialists,E1-E5,8391,8544,6523,6310,33190,49070
+4,Communications and Intelligence Specialists,E6-E9,3539,3459,1588,1639,61860,75840
+4,Health Care Specialists,E1-E5,1543,1661,1525,1385,32670,42830
+4,Health Care Specialists,E6-E9,664,706,286,263,49580,59990
+4,Other Allied Professions,E1-E5,843,898,733,695,34560,46860
+4,Other Allied Professions,E6-E9,552,609,318,273,54050,66190
+4,Functional Support and Administration,E1-E5,9203,9663,9209,8673,30700,42140
+4,Functional Support and Administration,E6-E9,6664,6767,3032,2827,51170,64920
+4,Electrical/Mechanical Equipment Repairers,E1-E5,11240,10880,7439,7731,33550,45650
+4,Electrical/Mechanical Equipment Repairers,E6-E9,3793,3786,1298,1295,53470,64900
+4,Craftsworkers,E1-E5,3935,3990,3342,3270,29870,41730
+4,Craftsworkers,E6-E9,1132,1166,528,487,48560,58030
+4,Service and Supply Handlers,E1-E5,8791,8796,7588,7512,29060,39990
+4,Service and Supply Handlers,E6-E9,2886,2883,1353,1319,45270,56840
+4,Infantry Gun Crews and Seamanship Specialists,E1-E5,10780,14270,26810,12480,28550,38450
+4,Infantry Gun Crews and Seamanship Specialists,E6-E9,5425,4440,4913,2989,52210,56630
+4,Electronic Equipment Repairers,E1-E5,2501,2848,4437,1934,43350,47610
+4,Electronic Equipment Repairers,E6-E9,1155,894,578,368,68760,74500
+4,Communications and Intelligence Specialists,E1-E5,5114,6062,9806,4700,37650,44150
+4,Communications and Intelligence Specialists,E6-E9,2899,2264,2184,1345,73230,70510
+4,Health Care Specialists,E1-E5,2738,3395,6205,3024,33780,41080
+4,Health Care Specialists,E6-E9,1367,1134,1068,600,50960,55630
+4,Other Allied Professions,E1-E5,520,705,1168,529,37930,43690
+4,Other Allied Professions,E6-E9,443,369,378,233,64300,59280
+4,Functional Support and Administration,E1-E5,4378,5343,11070,5226,33620,38560
+4,Functional Support and Administration,E6-E9,4755,3935,3342,2076,56750,62340
+4,Electrical/Mechanical Equipment Repairers,E1-E5,6112,6829,10450,4953,35760,42040
+4,Electrical/Mechanical Equipment Repairers,E6-E9,2591,1999,1530,1006,57310,59270
+4,Craftsworkers,E1-E5,1198,1455,2621,1295,29460,38480
+4,Craftsworkers,E6-E9,335,259,237,145,50370,54700
+4,Service and Supply Handlers,E1-E5,5406,6603,13250,6082,29830,36920
+4,Service and Supply Handlers,E6-E9,2150,1783,1846,1121,46730,51300
